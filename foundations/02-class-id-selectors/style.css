@@ -1,7 +1,7 @@
 .odd
 {
     background: rgb(212, 141, 141);
-    font-family: 'Verdana' 'DejaVu Sans' sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .odd.big
